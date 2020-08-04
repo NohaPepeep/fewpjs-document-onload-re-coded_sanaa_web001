@@ -1,7 +1,7 @@
 // Your code goes here
 const text=document.getElementById('text');
 document.addEventListener("DOMContentLoaded", function() {
-  text.innerHTML=""
+  text.innerHTML="This is really cool!"
 });
  
 console.log(
